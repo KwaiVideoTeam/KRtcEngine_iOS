@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |spec|
 
-  spec.name         = "KRtcEngine_iOS"
+  spec.name         = "KRtcEngine"
   spec.version      = "0.0.1"
   spec.summary      = "Kuaishou RtcEngine iOS"
 
